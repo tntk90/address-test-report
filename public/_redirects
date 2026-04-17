@@ -1,0 +1,2 @@
+/addressify-api/*  https://api.addressify.com.au/:splat  200
+/kleber-api        https://lightyeardocs-devuat.datatoolscloud.net.au/KleberWebService/DtKleberService.svc/ProcessQueryJsonRequest  200
