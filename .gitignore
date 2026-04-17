@@ -1,3 +1,4 @@
 node_modules/
+dist/
 .claude/
-tbl_asic_log.csv
+/tbl_asic_log.csv
